@@ -84,7 +84,6 @@ int main()
     }
     imshow("rects", rectsImg);
     waitKey(0);
-    cout << rects.size() << endl;
 
     return EXIT_SUCCESS;
 }
